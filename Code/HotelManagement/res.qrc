@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/chaxun.png</file>
+        <file>icon/dengji.png</file>
+        <file>icon/jiudian.png</file>
+        <file>icon/mima.png</file>
+        <file>icon/shouye.png</file>
+        <file>icon/sousuo.png</file>
+        <file>icon/yonghu.png</file>
+        <file>icon/yuangongguanli.png</file>
+        <file>icon/zengjiatianjiajiahao.png</file>
+        <file>icon/icon.png</file>
+        <file>room/business.jpg</file>
+        <file>room/double.jpg</file>
+        <file>room/kingbed.jpg</file>
+        <file>room/single.jpg</file>
+        <file>room/suite.jpg</file>
+        <file>icon/xiala.png</file>
+        <file>icon/xiangshang.png</file>
+        <file>icon/xiangxia.png</file>
+        <file>icon/shuaxin.png</file>
+    </qresource>
+</RCC>
