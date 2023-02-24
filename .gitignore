@@ -1,0 +1,16 @@
+# 忽略当前目录下的的Debug文件
+Debug/
+Release/
+*.obj
+x64
+.vs
+*.exe
+
+# !是不忽略的意思
+!*.sln
+!*.vcxproj
+!*.filters
+!HotelManagement.exe
+
+# 忽略所有.user结尾的文件
+*.user
